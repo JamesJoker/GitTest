@@ -4,4 +4,3 @@ Test Jenkins
 Test Git Webhook
 again
 Test inotify-tools
-Test redirect std output
